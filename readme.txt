@@ -7,3 +7,4 @@ belajr GIT dengan semangat 6
 belajr GIT dengan semangat 7
 belajr GIT dengan semangat 8
 belajr GIT dengan semangat 9
+belajr GIT dengan semangat 10
